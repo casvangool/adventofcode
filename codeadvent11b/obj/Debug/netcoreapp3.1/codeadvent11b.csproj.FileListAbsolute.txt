@@ -1,0 +1,12 @@
+C:\Users\casva\source\repos\codeadvent11b\bin\Debug\netcoreapp3.1\codeadvent11b.exe
+C:\Users\casva\source\repos\codeadvent11b\bin\Debug\netcoreapp3.1\codeadvent11b.deps.json
+C:\Users\casva\source\repos\codeadvent11b\bin\Debug\netcoreapp3.1\codeadvent11b.runtimeconfig.json
+C:\Users\casva\source\repos\codeadvent11b\bin\Debug\netcoreapp3.1\codeadvent11b.runtimeconfig.dev.json
+C:\Users\casva\source\repos\codeadvent11b\bin\Debug\netcoreapp3.1\codeadvent11b.dll
+C:\Users\casva\source\repos\codeadvent11b\bin\Debug\netcoreapp3.1\codeadvent11b.pdb
+C:\Users\casva\source\repos\codeadvent11b\obj\Debug\netcoreapp3.1\codeadvent11b.AssemblyInfoInputs.cache
+C:\Users\casva\source\repos\codeadvent11b\obj\Debug\netcoreapp3.1\codeadvent11b.AssemblyInfo.cs
+C:\Users\casva\source\repos\codeadvent11b\obj\Debug\netcoreapp3.1\codeadvent11b.csproj.CoreCompileInputs.cache
+C:\Users\casva\source\repos\codeadvent11b\obj\Debug\netcoreapp3.1\codeadvent11b.dll
+C:\Users\casva\source\repos\codeadvent11b\obj\Debug\netcoreapp3.1\codeadvent11b.pdb
+C:\Users\casva\source\repos\codeadvent11b\obj\Debug\netcoreapp3.1\codeadvent11b.genruntimeconfig.cache
